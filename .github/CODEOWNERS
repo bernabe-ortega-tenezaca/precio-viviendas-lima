@@ -1,0 +1,12 @@
+# Responsable global del repositorio
+* @bernabe-ortega-tenezaca
+
+# Código fuente
+/src/ @bernabe-ortega-tenezaca
+/scripts/ @bernabe-ortega-tenezaca
+# Tests
+/tests/ @bernabe-ortega-tenezaca
+# Documentación
+/docs/ @bernabe-ortega-tenezaca
+# Workflows y configuración de GitHub
+/.github/ @bernabe-ortega-tenezaca
